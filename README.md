@@ -13,7 +13,7 @@ Implement two types of transfer learning when applied to deep learning for compu
 * [NumPy](http://www.numpy.org/)
 
 ## Approaches
-In this practice, three simple machine learning dataset are used including [17 Category Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/), and [Caltech101 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/).
+In this practice, two simple machine learning dataset are used including [17 Category Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/), and [Caltech101 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/).
 
 The pre-trained network architecture `VGG16` (trained on ImageNet) is used in this practice.
 
